@@ -8,4 +8,4 @@ Clone: A clone brings the copy of the project hosted on GitHub in our machine. T
 Commit: All the commits are recorded in git logs with the description provided by user. After we add, modify or remove any files, a commit is made to save these changes in history.
 Push: The changes made in local repository are send to our remote with the help of push. Only the files we commit are pushed and rest of the changes remain local to your project.
 Pull: This is fetching updates that have occurred in a remote branch in our local repository and merge them.
-Pull Request : Pull Request is a method to contribute to open source projects by adding new features. Its a way of contributing by taking permission from the owner of project to include changes made in the external repository.
+Pull Request : Pull Request is a method to contribute to open source projects by adding new features. Its way of contributing by taking permission from the owner of project to include changes made in the external repository.
